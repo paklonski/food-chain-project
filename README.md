@@ -1,4 +1,7 @@
-# food-chain-project
+Foodchain project
+
+A simplified implementation of the blockchain and then an implemention of a system for monitoring the flow of food from its cultivation, through their processing, storage, distribution, to sale to the customer.
+
 This project was developed in collaboration with my colleague Artem Hurbych as a part of Object Design and Modeling Course at the CTU in Prague.
 
 -------------
