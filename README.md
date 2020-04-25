@@ -1,4 +1,4 @@
-# FOODCHAIN PROJECT
+# Foodchain
 
 A simplified implementation of the blockchain and then an implemention of a system for monitoring the flow of food from its cultivation, through their processing, storage, distribution, to sale to the customer.
 
